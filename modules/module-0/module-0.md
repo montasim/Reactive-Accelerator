@@ -1,4 +1,4 @@
-## [Module 1 - Getting Started with React: Describing the UI](module-1.md)
+## [Module 0 - Introduction to course](module-0.md)
 
 <br/>
 
@@ -7,65 +7,90 @@
 - [Lesson](#lesson)
 
 <br/>
-<br/>
 
 ### Lesson
 
-[1.1 Introduction to React](#11-introduction-to-react)
+[0.1 Reactive Accelerator - Course intro](./modules/module-0/#0-1-reactive-accelerator-course-intro)
 
-[1.2 React Installation & Development Environment Setup](#12-react-installation-development-environment-setup)
+[0.2 How to enroll in Reactive Accelerator course](./modules/module-0/#0-2-how-to-enroll-in-reactive-accelerator-course)
 
-[1.3 How React works: Virtual DOM](#13-how-react-works-virtual-dom)
+[0.3 How to get the most out of Reactive Accelerator course](./modules/module-0/#0-3-how-to-get-the-most-out-of-reactive-accelerator-course)
 
-[1.4 - Basics of React Components: Your first component](#14---basics-of-react-components-your-first-component)
+[0.4 How to submit quizzes in Reactive Accelerator course](./modules/module-0/#0-4-how-to-submit-quizzes-in-reactive-accelerator-course)
 
-[1.5 - Basics of React Components: Importing & Exporting Components](#15---basics-of-react-components-importing-exporting-components)
+[0.5 Platform overview](./modules/module-0/#0-5-platform-overview)
 
-[1.6 - Basics of JSX: React's Markup - Writing Markup with JSX](#16---basics-of-jsx-reacts-markup---writing-markup-with-jsx)
+[0.6 How to deploy your project to Vercel free](./modules/module-0/#0-6-how-to-deploy-your-project-to-vercel-free)
 
-[1.7 - Basics of JSX: React's Markup - JavaScript in JSX with Curly Braces](#17---basics-of-jsx-reacts-markup---javascript-in-jsx-with-curly-braces)
+[0.7 How to submit Assignments in Reactive Accelerator course](./modules/module-0/#0-7-how-to-submit-assignments-in-reactive-accelerator-course)
 
-[1.8 - Understanding Props - Passing Props to a Component](#18---understanding-props---passing-props-to-a-component)
+[0.8 How to maintain multiple GitHub remote URLs](./modules/module-0/#0-8-how-to-maintain-multiple-github-remote-urls)
 
-[1.9 - Conditional Rendering](#19---conditional-rendering)
+[0.9 How to ask for support](./modules/module-0/#0-9-how-to-ask-for-support)
 
-[1.10 Rendering Lists](#110-rendering-lists)
+[0.10 Git/GitHub Refresher](./modules/module-0/#0-10-git-github-refresher)
 
-[1.11 Pure Components: Keeping Components Pure](#111-pure-components-keeping-components-pure)
+[0.11 JavaScript Refresher](./modules/module-0/#0-11-javascript-refresher)
 
-[1.12 Understanding Complex React UI](#112-understanding-complex-react-ui)
+[0.12 Tailwind CSS Refresher](./modules/module-0/#0-12-tailwind-css-refresher)
 
-[1.13 Project Tutorial - Tic-Tac-Toe Game](#113-project-tutorial---tic-tac-toe-game)
+[0.13 Troubleshoot protected video playing issues](./modules/module-0/#0-13-troubleshoot-protected-video-playing-issues)
 
-[Assignment 1 Requirements - SmartGrade Showcase](#assignment-1-requirements---smartgrade-showcase)
+[0.14 Sample Video Test](./modules/module-0/#0-14-sample-video-test)
 
 <br/>
 <br/>
 
-## 1.1 Introduction to React
+### 0.1 Reactive Accelerator - Course intro
 
-## 1.2 React Installation & Development Environment Setup
 
-## 1.3 How React works: Virtual DOM
 
-## 1.4 - Basics of React Components: Your first component
+### 0.2 How to enroll in Reactive Accelerator course
 
-## 1.5 - Basics of React Components: Importing & Exporting Components
 
-## 1.6 - Basics of JSX: React's Markup - Writing Markup with JSX
 
-## 1.7 - Basics of JSX: React's Markup - JavaScript in JSX with Curly Braces
+### 0.3 How to get the most out of Reactive Accelerator course
 
-## 1.8 - Understanding Props - Passing Props to a Component
 
-## 1.9 - Conditional Rendering
 
-## 1.10 Rendering Lists
+### 0.4 How to submit quizzes in Reactive Accelerator course
 
-## 1.11 Pure Components: Keeping Components Pure
 
-## 1.12 Understanding Complex React UI
 
-## 1.13 Project Tutorial - Tic-Tac-Toe Game
+### 0.5 Platform overview
 
-## Assignment 1 Requirements - SmartGrade Showcase
+
+
+### 0.6 How to deploy your project to Vercel free
+
+
+
+### 0.7 How to submit Assignments in Reactive Accelerator course
+
+
+
+### 0.8 How to maintain multiple GitHub remote URLs
+
+
+
+### 0.9 How to ask for support
+
+
+### 0.10 Git/GitHub Refresher
+
+
+
+### 0.11 JavaScript Refresher
+
+
+
+### 0.12 Tailwind CSS Refresher
+
+
+
+### 0.13 Troubleshoot protected video playing issues
+
+
+
+### 0.14 Sample Video Test
+

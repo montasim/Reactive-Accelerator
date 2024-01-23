@@ -7,7 +7,6 @@
 - [Lesson](#lesson)
 
 <br/>
-<br/>
 
 ### Lesson
 
@@ -42,30 +41,58 @@
 <br/>
 <br/>
 
-## 1.1 Introduction to React
+### 1.1 Introduction to React
 
-## 1.2 React Installation & Development Environment Setup
 
-## 1.3 How React works: Virtual DOM
 
-## 1.4 - Basics of React Components: Your first component
+### 1.2 React Installation & Development Environment Setup
 
-## 1.5 - Basics of React Components: Importing & Exporting Components
 
-## 1.6 - Basics of JSX: React's Markup - Writing Markup with JSX
 
-## 1.7 - Basics of JSX: React's Markup - JavaScript in JSX with Curly Braces
+### 1.3 How React works: Virtual DOM
 
-## 1.8 - Understanding Props - Passing Props to a Component
 
-## 1.9 - Conditional Rendering
 
-## 1.10 Rendering Lists
+### 1.4 - Basics of React Components: Your first component
 
-## 1.11 Pure Components: Keeping Components Pure
 
-## 1.12 Understanding Complex React UI
 
-## 1.13 Project Tutorial - Tic-Tac-Toe Game
+### 1.5 - Basics of React Components: Importing & Exporting Components
 
-## Assignment 1 Requirements - SmartGrade Showcase
+
+
+### 1.6 - Basics of JSX: React's Markup - Writing Markup with JSX
+
+
+
+### 1.7 - Basics of JSX: React's Markup - JavaScript in JSX with Curly Braces
+
+
+
+### 1.8 - Understanding Props - Passing Props to a Component
+
+
+
+### 1.9 - Conditional Rendering
+
+
+
+### 1.10 Rendering Lists
+
+
+
+### 1.11 Pure Components: Keeping Components Pure
+
+
+
+### 1.12 Understanding Complex React UI
+
+
+
+### 1.13 Project Tutorial - Tic-Tac-Toe Game
+
+
+
+### Assignment 1 Requirements - SmartGrade Showcase
+
+
