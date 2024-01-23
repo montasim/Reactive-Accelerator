@@ -26,6 +26,7 @@ NOTE: Notes will be added by Module name
 <br/>
 
 ## CONTENTS:
+
 - [CONTENTS:](#contents)
 - [ROADMAP](#roadmap)
 - [MISSIONS](#missions)
@@ -216,7 +217,7 @@ NOTE: Notes will be added by Module name
 
 ## TOOLS
 
-
+1. [Babel](https://babeljs.io/repl/)
 
 <br/>
 
