@@ -89,7 +89,7 @@ NOTE: Notes will be added by Module name
 
 <br/>
 
-[1.1 Introduction to React](./modules/module-1/#11-introduction-to-react)
+[1.1 Introduction to React](./modules/module-1/module-1.md/#11-introduction-to-react)
 
 [1.2 React Installation & Development Environment Setup](./modules/module-1/#12-react-installation-development-environment-setup)
 
