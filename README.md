@@ -27,7 +27,6 @@ NOTE: Notes will be added by Module name
 
 ## CONTENTS:
 
-- [CONTENTS:](#contents)
 - [ROADMAP](#roadmap)
 - [MISSIONS](#missions)
 - [USED PACKAGES](#used-packages)
@@ -49,7 +48,6 @@ NOTE: Notes will be added by Module name
 <br/>
 
 ## MISSIONS
-
 
 <details>
     <summary>Module 0 - Introduction to course</summary>
@@ -83,6 +81,7 @@ NOTE: Notes will be added by Module name
 [0.13 Troubleshoot protected video playing issues](./modules/module-0/#0-13-troubleshoot-protected-video-playing-issues)
 
 [0.14 Sample Video Test](./modules/module-0/#0-14-sample-video-test)
+
 </details>
 
 <details>
@@ -117,6 +116,7 @@ NOTE: Notes will be added by Module name
 [1.13 Project Tutorial - Tic-Tac-Toe Game](./modules/module-1/#113-project-tutorial---tic-tac-toe-game)
 
 [Assignment 1 Requirements - SmartGrade Showcase](./modules/module-1/#assignment-1-requirements---smartgrade-showcase)
+
 </details>
 
 <details>
@@ -145,6 +145,7 @@ NOTE: Notes will be added by Module name
 [2.10 Project Tutorial- Tasker: Streamlining Success with React-Powered Task Management](./modules/module-2/#2-10-project-tutorial-tasker-streamlining-success-with-react-powered-task-management)
 
 [Assignment 2 Requirements - Book Finder App](./modules/module-2/#assignment-2-requirements-book-finder-app)
+
 </details>
 
 <details>
@@ -193,6 +194,7 @@ NOTE: Notes will be added by Module name
 [3.21 Project Tutorial - CineRental: Your One-Stop React App for Movie Magic and Rentals](./modules/module-3/#3-21-project-tutorial-cinerental-your-one-stop-react-app-for-movie-magic-and-rentals)
 
 [Assignment 3 Requirements - Improved Tasker](./modules/module-3/#assignment-3-requirements-improved-tasker)
+
 </details>
 
 <details>
@@ -211,37 +213,42 @@ NOTE: Notes will be added by Module name
 
 ## USED PACKAGES
 
-
-
 <br/>
 
 ## TOOLS
 
-1. [Babel](https://babeljs.io/repl/)
+1. [Babel - Transpiler for the browser](https://babeljs.io/repl/)
+2. [Vite - Bundeler for creating template](https://vitejs.dev/)
+3. [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/)
+
+   1. [ESLint - A static code analysis tool](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+   2. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+   3. [Live Server - Launch a local development server with live reload feature](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+   4. [Path Autocomplete - Provides path completion](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+   5. [Auto Rename Tag - uto rename paired HTML/XML tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+4. [Chakra UI - Create accessible React apps with speed](https://chakra-ui.com/)
+5. [Material Design - an open-source React component library](https://mui.com/material-ui/)
 
 <br/>
 
 ## ARTICLES
 
-
+1. [React - The library for web and native user interfaces](https://react.dev/)
 
 <br/>
 
 ## DO NOT FORGET TO DO
 
-
-
 <br/>
 
 ## TUTORIALS
 
-
+1. [VS Code Snippets - Boost your productivity with User Snippets](https://www.youtube.com/watch?v=N-U6AVcIPy4)
 
 <br/>
 
 ## INSPIRATIONS
-
-
 
 <br/>
 
@@ -254,15 +261,13 @@ Please read the [contribution guidelines](CONTRIBUTION.md) first.
 
 ## SPECIAL THANKS
 
-
-
 <br/>
 
 ## LICENSE
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Ｍ♢ＮＴΛＳＩＭ](http://montasim-dev.web.app/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Ｍ ♢ ＮＴ Λ ＳＩＭ](http://montasim-dev.web.app/) has waived all copyright and related or neighboring rights to this work.
 
 <br/>
 <br/>
