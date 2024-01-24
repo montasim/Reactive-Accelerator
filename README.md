@@ -54,33 +54,33 @@ NOTE: Notes will be added by Module name
 
 <br/>
 
-[0.1 Reactive Accelerator - Course intro](./modules/module-0/#0-1-reactive-accelerator-course-intro)
+[0.1 Reactive Accelerator - Course intro](./modules/module-0/module-0.md/#0-1-reactive-accelerator-course-intro)
 
-[0.2 How to enroll in Reactive Accelerator course](./modules/module-0/#0-2-how-to-enroll-in-reactive-accelerator-course)
+[0.2 How to enroll in Reactive Accelerator course](./modules/module-0/module-0.md/#0-2-how-to-enroll-in-reactive-accelerator-course)
 
-[0.3 How to get the most out of Reactive Accelerator course](./modules/module-0/#0-3-how-to-get-the-most-out-of-reactive-accelerator-course)
+[0.3 How to get the most out of Reactive Accelerator course](./modules/module-0/module-0.md/#0-3-how-to-get-the-most-out-of-reactive-accelerator-course)
 
-[0.4 How to submit quizzes in Reactive Accelerator course](./modules/module-0/#0-4-how-to-submit-quizzes-in-reactive-accelerator-course)
+[0.4 How to submit quizzes in Reactive Accelerator course](./modules/module-0/module-0.md/#0-4-how-to-submit-quizzes-in-reactive-accelerator-course)
 
-[0.5 Platform overview](./modules/module-0/#0-5-platform-overview)
+[0.5 Platform overview](./modules/module-0/module-0.md/#0-5-platform-overview)
 
-[0.6 How to deploy your project to Vercel free](./modules/module-0/#0-6-how-to-deploy-your-project-to-vercel-free)
+[0.6 How to deploy your project to Vercel free](./modules/module-0/module-0.md/#0-6-how-to-deploy-your-project-to-vercel-free)
 
-[0.7 How to submit Assignments in Reactive Accelerator course](./modules/module-0/#0-7-how-to-submit-assignments-in-reactive-accelerator-course)
+[0.7 How to submit Assignments in Reactive Accelerator course](./modules/module-0/module-0.md/#0-7-how-to-submit-assignments-in-reactive-accelerator-course)
 
-[0.8 How to maintain multiple GitHub remote URLs](./modules/module-0/#0-8-how-to-maintain-multiple-github-remote-urls)
+[0.8 How to maintain multiple GitHub remote URLs](./modules/module-0/module-0.md/#0-8-how-to-maintain-multiple-github-remote-urls)
 
-[0.9 How to ask for support](./modules/module-0/#0-9-how-to-ask-for-support)
+[0.9 How to ask for support](./modules/module-0/module-0.md/#0-9-how-to-ask-for-support)
 
-[0.10 Git/GitHub Refresher](./modules/module-0/#0-10-git-github-refresher)
+[0.10 Git/GitHub Refresher](./modules/module-0/module-0.md/#0-10-git-github-refresher)
 
-[0.11 JavaScript Refresher](./modules/module-0/#0-11-javascript-refresher)
+[0.11 JavaScript Refresher](./modules/module-0/module-0.md/#0-11-javascript-refresher)
 
-[0.12 Tailwind CSS Refresher](./modules/module-0/#0-12-tailwind-css-refresher)
+[0.12 Tailwind CSS Refresher](./modules/module-0/module-0.md/#0-12-tailwind-css-refresher)
 
-[0.13 Troubleshoot protected video playing issues](./modules/module-0/#0-13-troubleshoot-protected-video-playing-issues)
+[0.13 Troubleshoot protected video playing issues](./modules/module-0/module-0.md/#0-13-troubleshoot-protected-video-playing-issues)
 
-[0.14 Sample Video Test](./modules/module-0/#0-14-sample-video-test)
+[0.14 Sample Video Test](./modules/module-0/module-0.md/#0-14-sample-video-test)
 
 </details>
 
@@ -91,31 +91,31 @@ NOTE: Notes will be added by Module name
 
 [1.1 Introduction to React](./modules/module-1/module-1.md/#11-introduction-to-react)
 
-[1.2 React Installation & Development Environment Setup](./modules/module-1/#12-react-installation-development-environment-setup)
+[1.2 React Installation & Development Environment Setup](./modules/module-1/module-1.md/#12-react-installation-development-environment-setup)
 
-[1.3 How React works: Virtual DOM](./modules/module-1/#13-how-react-works-virtual-dom)
+[1.3 How React works: Virtual DOM](./modules/module-1/module-1.md/#13-how-react-works-virtual-dom)
 
-[1.4 - Basics of React Components: Your first component](./modules/module-1/#14---basics-of-react-components-your-first-component)
+[1.4 - Basics of React Components: Your first component](./modules/module-1/module-1.md/#14---basics-of-react-components-your-first-component)
 
-[1.5 - Basics of React Components: Importing & Exporting Components](./modules/module-1/#15---basics-of-react-components-importing-exporting-components)
+[1.5 - Basics of React Components: Importing & Exporting Components](./modules/module-1/module-1.md/#15---basics-of-react-components-importing-exporting-components)
 
-[1.6 - Basics of JSX: React's Markup - Writing Markup with JSX](./modules/module-1/#16---basics-of-jsx-reacts-markup---writing-markup-with-jsx)
+[1.6 - Basics of JSX: React's Markup - Writing Markup with JSX](./modules/module-1/module-1.md/#16---basics-of-jsx-reacts-markup---writing-markup-with-jsx)
 
-[1.7 - Basics of JSX: React's Markup - JavaScript in JSX with Curly Braces](./modules/module-1/#17---basics-of-jsx-reacts-markup---javascript-in-jsx-with-curly-braces)
+[1.7 - Basics of JSX: React's Markup - JavaScript in JSX with Curly Braces](./modules/module-1/module-1.md/#17---basics-of-jsx-reacts-markup---javascript-in-jsx-with-curly-braces)
 
-[1.8 - Understanding Props - Passing Props to a Component](./modules/module-1/#18---understanding-props---passing-props-to-a-component)
+[1.8 - Understanding Props - Passing Props to a Component](./modules/module-1/module-1.md/#18---understanding-props---passing-props-to-a-component)
 
-[1.9 - Conditional Rendering](./modules/module-1/#19---conditional-rendering)
+[1.9 - Conditional Rendering](./modules/module-1/module-1.md/#19---conditional-rendering)
 
-[1.10 Rendering Lists](./modules/module-1/#110-rendering-lists)
+[1.10 Rendering Lists](./modules/module-1/module-1.md/#110-rendering-lists)
 
-[1.11 Pure Components: Keeping Components Pure](./modules/module-1/#111-pure-components-keeping-components-pure)
+[1.11 Pure Components: Keeping Components Pure](./modules/module-1/module-1.md/#111-pure-components-keeping-components-pure)
 
-[1.12 Understanding Complex React UI](./modules/module-1/#112-understanding-complex-react-ui)
+[1.12 Understanding Complex React UI](./modules/module-1/module-1.md/#112-understanding-complex-react-ui)
 
-[1.13 Project Tutorial - Tic-Tac-Toe Game](./modules/module-1/#113-project-tutorial---tic-tac-toe-game)
+[1.13 Project Tutorial - Tic-Tac-Toe Game](./modules/module-1/module-1.md/#113-project-tutorial---tic-tac-toe-game)
 
-[Assignment 1 Requirements - SmartGrade Showcase](./modules/module-1/#assignment-1-requirements---smartgrade-showcase)
+[Assignment 1 Requirements - SmartGrade Showcase](./modules/module-1/module-1.md/#assignment-1-requirements---smartgrade-showcase)
 
 </details>
 
@@ -124,27 +124,27 @@ NOTE: Notes will be added by Module name
 
 <br/>
 
-[2.1 Responding to Events - Adding Event Handlers](./modules/module-2/#2-1-responding-to-events-adding-event-handlers)
+[2.1 Responding to Events - Adding Event Handlers](./modules/module-2/module-2.md/#2-1-responding-to-events-adding-event-handlers)
 
-[2.2 Responding to Events - Event Propagation](./modules/module-2/#2-2-responding-to-events-event-propagation)
+[2.2 Responding to Events - Event Propagation](./modules/module-2/module-2.md/#2-2-responding-to-events-event-propagation)
 
-[2.3 Understanding State: A Component's Memory](./modules/module-2/#2-3-understanding-state-a-component-s-memory)
+[2.3 Understanding State: A Component's Memory](./modules/module-2/module-2.md/#2-3-understanding-state-a-component-s-memory)
 
-[2.4 How state works in React - A deep dive](./modules/module-2/#2-4-how-state-works-in-react-a-deep-dive)
+[2.4 How state works in React - A deep dive](./modules/module-2/module-2.md/#2-4-how-state-works-in-react-a-deep-dive)
 
-[2.5 How Rendering works](./modules/module-2/#2-5-how-rendering-works)
+[2.5 How Rendering works](./modules/module-2/module-2.md/#2-5-how-rendering-works)
 
-[2.6 State as a Snapshot](./modules/module-2/#2-6-state-as-a-snapshot)
+[2.6 State as a Snapshot](./modules/module-2/module-2.md/#2-6-state-as-a-snapshot)
 
-[2.7 Queueing a Series of State Updates](./modules/module-2/#2-7-queueing-a-series-of-state-updates)
+[2.7 Queueing a Series of State Updates](./modules/module-2/module-2.md/#2-7-queueing-a-series-of-state-updates)
 
-[2.8 Updating Objects in a State](./modules/module-2/#2-8-updating-objects-in-a-state)
+[2.8 Updating Objects in a State](./modules/module-2/module-2.md/#2-8-updating-objects-in-a-state)
 
-[2.9 Updating Arrays in a State](./modules/module-2/#2-9-updating-arrays-in-a-state)
+[2.9 Updating Arrays in a State](./modules/module-2/module-2.md/#2-9-updating-arrays-in-a-state)
 
-[2.10 Project Tutorial- Tasker: Streamlining Success with React-Powered Task Management](./modules/module-2/#2-10-project-tutorial-tasker-streamlining-success-with-react-powered-task-management)
+[2.10 Project Tutorial- Tasker: Streamlining Success with React-Powered Task Management](./modules/module-2/module-2.md/#2-10-project-tutorial-tasker-streamlining-success-with-react-powered-task-management)
 
-[Assignment 2 Requirements - Book Finder App](./modules/module-2/#assignment-2-requirements-book-finder-app)
+[Assignment 2 Requirements - Book Finder App](./modules/module-2/module-2.md/#assignment-2-requirements-book-finder-app)
 
 </details>
 
@@ -153,47 +153,47 @@ NOTE: Notes will be added by Module name
     
 <br/>
 
-[3.1 Declarative vs Imperative UI](./modules/module-3/#3-1-declarative-vs-imperative-ui)
+[3.1 Declarative vs Imperative UI](./modules/module-3/module-3.md/#3-1-declarative-vs-imperative-ui)
 
-[3.2 Thinking about UI declaratively in React - Finding Visual States](./modules/module-3/#3-2-thinking-about-ui-declaratively-in-react-finding-visual-states)
+[3.2 Thinking about UI declaratively in React - Finding Visual States](./modules/module-3/module-3.md/#3-2-thinking-about-ui-declaratively-in-react-finding-visual-states)
 
-[3.3 Thinking about UI declaratively in React - Finalize React states & Connect Event Handlers](./modules/module-2/#3-3-thinking-about-ui-declaratively-in-react-finalize-react-states-connect-event-handlers)
+[3.3 Thinking about UI declaratively in React - Finalize React states & Connect Event Handlers](./modules/module-3/module-3.md/#3-3-thinking-about-ui-declaratively-in-react-finalize-react-states-connect-event-handlers)
 
-[3.4 Choosing the State Structure - Group related state](./modules/module-3/#3-4-choosing-the-state-structure-group-related-state)
+[3.4 Choosing the State Structure - Group related state](./modules/module-3/module-3.md/#3-4-choosing-the-state-structure-group-related-state)
 
-[3.5 Choosing the State Structure - Avoid contradictions in state](./modules/module-3/#3-5-choosing-the-state-structure-avoid-contradictions-in-state)
+[3.5 Choosing the State Structure - Avoid contradictions in state](./modules/module-3/module-3.md/#3-5-choosing-the-state-structure-avoid-contradictions-in-state)
 
-[3.6 Choosing the State Structure - Avoid redundant state](./modules/module-3/#3-6-choosing-the-state-structure-avoid-redundant-state)
+[3.6 Choosing the State Structure - Avoid redundant state](./modules/module-3/module-3.md/#3-6-choosing-the-state-structure-avoid-redundant-state)
 
-[3.7 Choosing the State Structure - Avoid duplication in state](./modules/module-3/#3-7-choosing-the-state-structure-avoid-duplication-in-state)
+[3.7 Choosing the State Structure - Avoid duplication in state](./modules/module-3/module-3.md/#3-7-choosing-the-state-structure-avoid-duplication-in-state)
 
-[3.8 Choosing the State Structure - Avoid deeply nested state](./modules/module-3/#3-8-choosing-the-state-structure-avoid-deeply-nested-state)
+[3.8 Choosing the State Structure - Avoid deeply nested state](./modules/module-3/module-3.md/#3-8-choosing-the-state-structure-avoid-deeply-nested-state)
 
-[3.9 Sharing State Between Components - Lifting state up](./modules/module-3/#3-9-sharing-state-between-components-lifting-state-up)
+[3.9 Sharing State Between Components - Lifting state up](./modules/module-3/module-3.md/#3-9-sharing-state-between-components-lifting-state-up)
 
-[3.10 Preserving and Resetting State - Default behavior](./modules/module-3/#3-10-preserving-and-resetting-state-default-behavior)
+[3.10 Preserving and Resetting State - Default behavior](./modules/module-3/module-3.md/#3-10-preserving-and-resetting-state-default-behavior)
 
-[3.11 Resetting state at the same position - Changing Default behavior](./modules/module-3/#3-11-resetting-state-at-the-same-position-changing-default-behavior)
+[3.11 Resetting state at the same position - Changing Default behavior](./modules/module-3/module-3.md/#3-11-resetting-state-at-the-same-position-changing-default-behavior)
 
-[3.12 Extracting State Logic into a Reducer - Example project](./modules/module-3/#3-12-extracting-state-logic-into-a-reducer-example-project)
+[3.12 Extracting State Logic into a Reducer - Example project](./modules/module-3/module-3.md/#3-12-extracting-state-logic-into-a-reducer-example-project)
 
-[3.13 Three steps to Consolidate state logic with a reducer](./modules/module-3/#3-13-three-steps-to-consolidate-state-logic-with-a-reducer)
+[3.13 Three steps to Consolidate state logic with a reducer](./modules/module-3/module-3.md/#3-13-three-steps-to-consolidate-state-logic-with-a-reducer)
 
-[3.14 Comparing useState and useReducer - How to write reducers well](./modules/module-3/#3-14-comparing-usestate-and-usereducer-how-to-write-reducers-well)
+[3.14 Comparing useState and useReducer - How to write reducers well](./modules/module-3/module-3.md/#3-14-comparing-usestate-and-usereducer-how-to-write-reducers-well)
 
-[3.15 Writing concise reducers with Immer](./modules/module-3/#3-15-writing-concise-reducers-with-immer)
+[3.15 Writing concise reducers with Immer](./modules/module-3/module-3.md/#3-15-writing-concise-reducers-with-immer)
 
-[3.16 Passing Data Deeply with Context - Introduction to Context API](./modules/module-3/#3-16-passing-data-deeply-with-context-introduction-to-context-api)
+[3.16 Passing Data Deeply with Context - Introduction to Context API](./modules/module-3/module-3.md/#3-16-passing-data-deeply-with-context-introduction-to-context-api)
 
-[3.18 Context passes through intermediate components](./modules/module-3/#3-18-context-passes-through-intermediate-components)
+[3.18 Context passes through intermediate components](./modules/module-3/module-3.md/#3-18-context-passes-through-intermediate-components)
 
-[3.19 Some notes and use cases for Context](./modules/module-3/#3-19-some-notes-and-use-cases-for-context)
+[3.19 Some notes and use cases for Context](./modules/module-3/module-3.md/#3-19-some-notes-and-use-cases-for-context)
 
-[3.20 Scaling Up with Reducer and Context](./modules/module-3/#3-20-scaling-up-with-reducer-and-context)
+[3.20 Scaling Up with Reducer and Context](./modules/module-3/module-3.md/#3-20-scaling-up-with-reducer-and-context)
 
-[3.21 Project Tutorial - CineRental: Your One-Stop React App for Movie Magic and Rentals](./modules/module-3/#3-21-project-tutorial-cinerental-your-one-stop-react-app-for-movie-magic-and-rentals)
+[3.21 Project Tutorial - CineRental: Your One-Stop React App for Movie Magic and Rentals](./modules/module-3/module-3.md/#3-21-project-tutorial-cinerental-your-one-stop-react-app-for-movie-magic-and-rentals)
 
-[Assignment 3 Requirements - Improved Tasker](./modules/module-3/#assignment-3-requirements-improved-tasker)
+[Assignment 3 Requirements - Improved Tasker](./modules/module-3/module-3.md/#assignment-3-requirements-improved-tasker)
 
 </details>
 
