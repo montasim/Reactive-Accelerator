@@ -343,6 +343,10 @@
 
 ### 1.13 Project Tutorial - Tic-Tac-Toe Game
 
+1. Lifting the state up.
+
+   **Answer:**
+
 <br/>
 
 ### Assignment 1 Requirements - SmartGrade Showcase

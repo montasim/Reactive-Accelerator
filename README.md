@@ -229,6 +229,7 @@ NOTE: Notes will be added by Module name
 
 4. [Chakra UI - Create accessible React apps with speed](https://chakra-ui.com/)
 5. [Material Design - an open-source React component library](https://mui.com/material-ui/)
+6. [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 <br/>
 
