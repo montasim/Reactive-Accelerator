@@ -349,4 +349,6 @@
 
 <br/>
 
-### Assignment 1 Requirements - SmartGrade Showcase
+### [Assignment 1 Requirements - SmartGrade Showcase](https://github.com/montasim/Reactive-Accelerator-Assignment-1)
+
+   [Solution](https://github.com/montasim/Reactive-Accelerator-Assignment-1)
