@@ -124,27 +124,27 @@ NOTE: Notes will be added by Module name
 
 <br/>
 
-[2.1 Responding to Events - Adding Event Handlers](./modules/module-2/module-2.md/#2-1-responding-to-events-adding-event-handlers)
+[2.1 Responding to Events - Adding Event Handlers](./modules/module-2/module-2.md/#21-responding-to-events---adding-event-handlers)
 
-[2.2 Responding to Events - Event Propagation](./modules/module-2/module-2.md/#2-2-responding-to-events-event-propagation)
+[2.2 Responding to Events - Event Propagation](./modules/module-2/module-2.md/#22-responding-to-events---event-propagation)
 
-[2.3 Understanding State: A Component's Memory](./modules/module-2/module-2.md/#2-3-understanding-state-a-component-s-memory)
+[2.3 Understanding State: A Component's Memory](./modules/module-2/module-2.md/#23-understanding-state-a-components-memory)
 
-[2.4 How state works in React - A deep dive](./modules/module-2/module-2.md/#2-4-how-state-works-in-react-a-deep-dive)
+[2.4 How state works in React - A deep dive](./modules/module-2/module-2.md/#24-how-state-works-in-react---a-deep-dive)
 
-[2.5 How Rendering works](./modules/module-2/module-2.md/#2-5-how-rendering-works)
+[2.5 How Rendering works](./modules/module-2/module-2.md/#25-how-rendering-works)
 
-[2.6 State as a Snapshot](./modules/module-2/module-2.md/#2-6-state-as-a-snapshot)
+[2.6 State as a Snapshot](./modules/module-2/module-2.md/#26-state-as-a-snapshot)
 
-[2.7 Queueing a Series of State Updates](./modules/module-2/module-2.md/#2-7-queueing-a-series-of-state-updates)
+[2.7 Queueing a Series of State Updates](./modules/module-2/module-2.md/#27-queueing-a-series-of-state-updates)
 
-[2.8 Updating Objects in a State](./modules/module-2/module-2.md/#2-8-updating-objects-in-a-state)
+[2.8 Updating Objects in a State](./modules/module-2/module-2.md/#28-updating-objects-in-a-state)
 
-[2.9 Updating Arrays in a State](./modules/module-2/module-2.md/#2-9-updating-arrays-in-a-state)
+[2.9 Updating Arrays in a State](./modules/module-2/module-2.md/#29-updating-arrays-in-a-state)
 
-[2.10 Project Tutorial- Tasker: Streamlining Success with React-Powered Task Management](./modules/module-2/module-2.md/#2-10-project-tutorial-tasker-streamlining-success-with-react-powered-task-management)
+[2.10 Project Tutorial- Tasker: Streamlining Success with React-Powered Task Management](./modules/module-2/module-2.md/#210-project-tutorial--tasker-streamlining-success-with-react-powered-task-management)
 
-[Assignment 2 Requirements - Book Finder App](./modules/module-2/module-2.md/#assignment-2-requirements-book-finder-app)
+[Assignment 2 Requirements - Book Finder App](./modules/module-2/module-2.md/#assignment-2-requirements---book-finder-app)
 
 </details>
 
@@ -212,6 +212,8 @@ NOTE: Notes will be added by Module name
 <br/>
 
 ## USED PACKAGES
+
+1. [use-immer - A hook to use immer as a React hook to manipulate state.](https://www.npmjs.com/package/use-immer)
 
 <br/>
 
