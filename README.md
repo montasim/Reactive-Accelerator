@@ -153,45 +153,45 @@ NOTE: Notes will be added by Module name
     
 <br/>
 
-[3.1 Declarative vs Imperative UI](./modules/module-3/module-3.md/#3-1-declarative-vs-imperative-ui)
+[3.1 Declarative vs Imperative UI](./modules/module-3/module-3.md/#31-declarative-vs-imperative-ui)
 
-[3.2 Thinking about UI declaratively in React - Finding Visual States](./modules/module-3/module-3.md/#3-2-thinking-about-ui-declaratively-in-react-finding-visual-states)
+[3.2 Thinking about UI declaratively in React - Finding Visual States](./modules/module-3/module-3.md/#32-thinking-about-ui-declaratively-in-react-finding-visual-states)
 
-[3.3 Thinking about UI declaratively in React - Finalize React states & Connect Event Handlers](./modules/module-3/module-3.md/#3-3-thinking-about-ui-declaratively-in-react-finalize-react-states-connect-event-handlers)
+[3.3 Thinking about UI declaratively in React - Finalize React states & Connect Event Handlers](./modules/module-3/module-3.md/#33-thinking-about-ui-declaratively-in-react-finalize-react-states-connect-event-handlers)
 
-[3.4 Choosing the State Structure - Group related state](./modules/module-3/module-3.md/#3-4-choosing-the-state-structure-group-related-state)
+[3.4 Choosing the State Structure - Group related state](./modules/module-3/module-3.md/#34-choosing-the-state-structure-group-related-state)
 
-[3.5 Choosing the State Structure - Avoid contradictions in state](./modules/module-3/module-3.md/#3-5-choosing-the-state-structure-avoid-contradictions-in-state)
+[3.5 Choosing the State Structure - Avoid contradictions in state](./modules/module-3/module-3.md/#35-choosing-the-state-structure-avoid-contradictions-in-state)
 
-[3.6 Choosing the State Structure - Avoid redundant state](./modules/module-3/module-3.md/#3-6-choosing-the-state-structure-avoid-redundant-state)
+[3.6 Choosing the State Structure - Avoid redundant state](./modules/module-3/module-3.md/#36-choosing-the-state-structure-avoid-redundant-state)
 
-[3.7 Choosing the State Structure - Avoid duplication in state](./modules/module-3/module-3.md/#3-7-choosing-the-state-structure-avoid-duplication-in-state)
+[3.7 Choosing the State Structure - Avoid duplication in state](./modules/module-3/module-3.md/#37-choosing-the-state-structure-avoid-duplication-in-state)
 
-[3.8 Choosing the State Structure - Avoid deeply nested state](./modules/module-3/module-3.md/#3-8-choosing-the-state-structure-avoid-deeply-nested-state)
+[3.8 Choosing the State Structure - Avoid deeply nested state](./modules/module-3/module-3.md/#38-choosing-the-state-structure-avoid-deeply-nested-state)
 
-[3.9 Sharing State Between Components - Lifting state up](./modules/module-3/module-3.md/#3-9-sharing-state-between-components-lifting-state-up)
+[3.9 Sharing State Between Components - Lifting state up](./modules/module-3/module-3.md/#39-sharing-state-between-components-lifting-state-up)
 
-[3.10 Preserving and Resetting State - Default behavior](./modules/module-3/module-3.md/#3-10-preserving-and-resetting-state-default-behavior)
+[3.10 Preserving and Resetting State - Default behavior](./modules/module-3/module-3.md/#310-preserving-and-resetting-state-default-behavior)
 
-[3.11 Resetting state at the same position - Changing Default behavior](./modules/module-3/module-3.md/#3-11-resetting-state-at-the-same-position-changing-default-behavior)
+[3.11 Resetting state at the same position - Changing Default behavior](./modules/module-3/module-3.md/#311-resetting-state-at-the-same-position-changing-default-behavior)
 
-[3.12 Extracting State Logic into a Reducer - Example project](./modules/module-3/module-3.md/#3-12-extracting-state-logic-into-a-reducer-example-project)
+[3.12 Extracting State Logic into a Reducer - Example project](./modules/module-3/module-3.md/#312-extracting-state-logic-into-a-reducer-example-project)
 
-[3.13 Three steps to Consolidate state logic with a reducer](./modules/module-3/module-3.md/#3-13-three-steps-to-consolidate-state-logic-with-a-reducer)
+[3.13 Three steps to Consolidate state logic with a reducer](./modules/module-3/module-3.md/#313-three-steps-to-consolidate-state-logic-with-a-reducer)
 
-[3.14 Comparing useState and useReducer - How to write reducers well](./modules/module-3/module-3.md/#3-14-comparing-usestate-and-usereducer-how-to-write-reducers-well)
+[3.14 Comparing useState and useReducer - How to write reducers well](./modules/module-3/module-3.md/#314-comparing-usestate-and-usereducer-how-to-write-reducers-well)
 
-[3.15 Writing concise reducers with Immer](./modules/module-3/module-3.md/#3-15-writing-concise-reducers-with-immer)
+[3.15 Writing concise reducers with Immer](./modules/module-3/module-3.md/#315-writing-concise-reducers-with-immer)
 
-[3.16 Passing Data Deeply with Context - Introduction to Context API](./modules/module-3/module-3.md/#3-16-passing-data-deeply-with-context-introduction-to-context-api)
+[3.16 Passing Data Deeply with Context - Introduction to Context API](./modules/module-3/module-3.md/#316-passing-data-deeply-with-context-introduction-to-context-api)
 
-[3.18 Context passes through intermediate components](./modules/module-3/module-3.md/#3-18-context-passes-through-intermediate-components)
+[3.18 Context passes through intermediate components](./modules/module-3/module-3.md/#318-context-passes-through-intermediate-components)
 
-[3.19 Some notes and use cases for Context](./modules/module-3/module-3.md/#3-19-some-notes-and-use-cases-for-context)
+[3.19 Some notes and use cases for Context](./modules/module-3/module-3.md/#319-some-notes-and-use-cases-for-context)
 
-[3.20 Scaling Up with Reducer and Context](./modules/module-3/module-3.md/#3-20-scaling-up-with-reducer-and-context)
+[3.20 Scaling Up with Reducer and Context](./modules/module-3/module-3.md/#320-scaling-up-with-reducer-and-context)
 
-[3.21 Project Tutorial - CineRental: Your One-Stop React App for Movie Magic and Rentals](./modules/module-3/module-3.md/#3-21-project-tutorial-cinerental-your-one-stop-react-app-for-movie-magic-and-rentals)
+[3.21 Project Tutorial - CineRental: Your One-Stop React App for Movie Magic and Rentals](./modules/module-3/module-3.md/#321-project-tutorial-cinerental-your-one-stop-react-app-for-movie-magic-and-rentals)
 
 [Assignment 3 Requirements - Improved Tasker](./modules/module-3/module-3.md/#assignment-3-requirements-improved-tasker)
 
@@ -213,7 +213,8 @@ NOTE: Notes will be added by Module name
 
 ## USED PACKAGES
 
-1. [use-immer - A hook to use immer as a React hook to manipulate state.](https://www.npmjs.com/package/use-immer)
+1. [use-immer - A hook to use immer as a React hook to manipulate state](https://www.npmjs.com/package/use-immer)
+1. [react-icons - Include popular icons in your React projects](https://www.npmjs.com/package/react-icons)
 
 <br/>
 
