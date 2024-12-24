@@ -2,10 +2,6 @@
 
 <!-- repository summary badges start -->
 <div>
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/montasim/Reactive-Accelerator?&labelColor=EB008B&color=00B8B5">
-    <img alt="goto badge" src="https://img.shields.io/github/search/montasim/Reactive-Accelerator/goto?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/montasim/Reactive-Accelerator?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/montasim/Reactive-Accelerator?&labelColor=EB008B&color=00B8B5">
     <img alt="GitHub" src="https://img.shields.io/github/license/montasim/Reactive-Accelerator?&labelColor=EB008B&color=00B8B5">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/montasim/Reactive-Accelerator?&labelColor=EB008B&color=00B8B5">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/Reactive-Accelerator?&labelColor=EB008B&color=00B8B5">
