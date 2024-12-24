@@ -1,4 +1,4 @@
-## [Module 3 - React State Management Deep Dive](module-3.md)
+## [Module 3 - React State Management Deep Dive](module-3.md.md)
 
 <br/>
 
@@ -10,47 +10,47 @@
 
 ### Lesson
 
-[3.1 Declarative vs Imperative UI](./modules/module-3/#3-1-declarative-vs-imperative-ui)
+[3.1 Declarative vs Imperative UI](./module-3.md/#31-declarative-vs-imperative-ui)
 
-[3.2 Thinking about UI declaratively in React - Finding Visual States](./modules/module-3/#3-2-thinking-about-ui-declaratively-in-react-finding-visual-states)
+[3.2 Thinking about UI declaratively in React - Finding Visual States](./module-3.md/#32-thinking-about-ui-declaratively-in-react---finding-visual-states)
 
-[3.3 Thinking about UI declaratively in React - Finalize React states & Connect Event Handlers](./modules/module-2/#3-3-thinking-about-ui-declaratively-in-react-finalize-react-states-connect-event-handlers)
+[3.3 Thinking about UI declaratively in React - Finalize React states & Connect Event Handlers](./module-3.md/#33-thinking-about-ui-declaratively-in-react---finalize-react-states--connect-event-handlers)
 
-[3.4 Choosing the State Structure - Group related state](./modules/module-3/#3-4-choosing-the-state-structure-group-related-state)
+[3.4 Choosing the State Structure - Group related state](./module-3.md/#34-choosing-the-state-structure-group-related-state)
 
-[3.5 Choosing the State Structure - Avoid contradictions in state](./modules/module-3/#3-5-choosing-the-state-structure-avoid-contradictions-in-state)
+[3.5 Choosing the State Structure - Avoid contradictions in state](./module-3.md/#35-choosing-the-state-structure-avoid-contradictions-in-state)
 
-[3.6 Choosing the State Structure - Avoid redundant state](./modules/module-3/#3-6-choosing-the-state-structure-avoid-redundant-state)
+[3.6 Choosing the State Structure - Avoid redundant state](./module-3.md/#36-choosing-the-state-structure-avoid-redundant-state)
 
-[3.7 Choosing the State Structure - Avoid duplication in state](./modules/module-3/#3-7-choosing-the-state-structure-avoid-duplication-in-state)
+[3.7 Choosing the State Structure - Avoid duplication in state](./module-3.md/#37-choosing-the-state-structure-avoid-duplication-in-state)
 
-[3.8 Choosing the State Structure - Avoid deeply nested state](./modules/module-3/#3-8-choosing-the-state-structure-avoid-deeply-nested-state)
+[3.8 Choosing the State Structure - Avoid deeply nested state](./module-3.md/#38-choosing-the-state-structure-avoid-deeply-nested-state)
 
-[3.9 Sharing State Between Components - Lifting state up](./modules/module-3/#3-9-sharing-state-between-components-lifting-state-up)
+[3.9 Sharing State Between Components - Lifting state up](./module-3.md/#39-sharing-state-between-components-lifting-state-up)
 
-[3.10 Preserving and Resetting State - Default behavior](./modules/module-3/#3-10-preserving-and-resetting-state-default-behavior)
+[3.10 Preserving and Resetting State - Default behavior](./module-3.md/#310-preserving-and-resetting-state-default-behavior)
 
-[3.11 Resetting state at the same position - Changing Default behavior](./modules/module-3/#3-11-resetting-state-at-the-same-position-changing-default-behavior)
+[3.11 Resetting state at the same position - Changing Default behavior](./module-3.md/#311-resetting-state-at-the-same-position-changing-default-behavior)
 
-[3.12 Extracting State Logic into a Reducer - Example project](./modules/module-3/#3-12-extracting-state-logic-into-a-reducer-example-project)
+[3.12 Extracting State Logic into a Reducer - Example project](./module-3.md/#312-extracting-state-logic-into-a-reducer-example-project)
 
-[3.13 Three steps to Consolidate state logic with a reducer](./modules/module-3/#3-13-three-steps-to-consolidate-state-logic-with-a-reducer)
+[3.13 Three steps to Consolidate state logic with a reducer](./module-3.md/#313-three-steps-to-consolidate-state-logic-with-a-reducer)
 
-[3.14 Comparing useState and useReducer - How to write reducers well](./modules/module-3/#3-14-comparing-usestate-and-usereducer-how-to-write-reducers-well)
+[3.14 Comparing useState and useReducer - How to write reducers well](./module-3.md/#314-comparing-usestate-and-usereducer-how-to-write-reducers-well)
 
-[3.15 Writing concise reducers with Immer](./modules/module-3/#3-15-writing-concise-reducers-with-immer)
+[3.15 Writing concise reducers with Immer](./module-3.md/#315-writing-concise-reducers-with-immer)
 
-[3.16 Passing Data Deeply with Context - Introduction to Context API](./modules/module-3/#3-16-passing-data-deeply-with-context-introduction-to-context-api)
+[3.16 Passing Data Deeply with Context - Introduction to Context API](./module-3.md/#316-passing-data-deeply-with-context-introduction-to-context-api)
 
-[3.18 Context passes through intermediate components](./modules/module-3/#3-18-context-passes-through-intermediate-components)
+[3.18 Context passes through intermediate components](./module-3.md/#318-context-passes-through-intermediate-components)
 
-[3.19 Some notes and use cases for Context](./modules/module-3/#3-19-some-notes-and-use-cases-for-context)
+[3.19 Some notes and use cases for Context](./module-3.md/#319-some-notes-and-use-cases-for-context)
 
-[3.20 Scaling Up with Reducer and Context](./modules/module-3/#3-20-scaling-up-with-reducer-and-context)
+[3.20 Scaling Up with Reducer and Context](./module-3.md/#320-scaling-up-with-reducer-and-context)
 
-[3.21 Project Tutorial - CineRental: Your One-Stop React App for Movie Magic and Rentals](./modules/module-3/#3-21-project-tutorial-cinerental-your-one-stop-react-app-for-movie-magic-and-rentals)
+[3.21 Project Tutorial - CineRental: Your One-Stop React App for Movie Magic and Rentals](./module-3.md/#321-project-tutorial-cinerental-your-one-stop-react-app-for-movie-magic-and-rentals)
 
-[Assignment 3 Requirements - Improved Tasker](./modules/module-3/#assignment-3-requirements-improved-tasker)
+[Assignment 3 Requirements - Improved Tasker](./module-3.md/#assignment-3-requirements-improved-tasker)
 
 <br/>
 <br/>
@@ -456,6 +456,100 @@ The decision to use an object or an array in React state largely depends on the 
 <br/>
 
 ### 3.4 Choosing the State Structure - Group related state
+
+<br/>
+
+**1. What is Derived State / Calculated State in React?**
+
+**Answer:** Derived state is a powerful concept in React that allows a component to calculate its internal state based on changes in its props or its current state. This approach is useful for cases where the component needs to transform or recompute data as a result of props changes.
+
+#### Understanding Derived State
+
+Derived state comes into play when a component's output or rendered UI needs to change in response to changes in its input (props) or in response to its own state changes, but without directly altering those inputs.
+
+#### How to Implement Derived State
+
+1. **Using `getDerivedStateFromProps`**:
+    - `getDerivedStateFromProps` is a static method used to compute derived state. It takes in props and state as arguments and returns an object to update the state or `null` to indicate no changes.
+    - This method is used for rare cases where the state depends on changes in props over time.
+
+    ```jsx
+    static getDerivedStateFromProps(props, state) {
+      if (props.value !== state.controlledValue) {
+        return {
+          controlledValue: props.value,
+        };
+      }
+      return null;
+    }
+    ```
+
+2. Using State and Effects Hooks:
+   
+    - In functional components, derived state can be handled using the useState and useEffect hooks. useEffect can listen for changes in props and state, allowing you to update the state accordingly.
+
+    ```jsx
+    const MyComponent = (props) => {
+      const [derivedState, setDerivedState] = useState(computeDerivedState(props));
+    
+      useEffect(() => {
+        setDerivedState(computeDerivedState(props));
+      }, [props]); // Depend on props to re-compute the derived state
+    
+      function computeDerivedState(props) {
+        // Compute derived state based on props
+      }
+    
+      return <div>{derivedState}</div>;
+    };
+    ```
+
+**Best Practices for Derived State**
+
+1. Avoid Unnecessary Derivations: Use derived state sparingly, as it can lead to complex and hard-to-maintain code. If you can achieve the same result with props directly, prefer that approach. 
+2. Minimize State: Aim to minimize the amount of state your component manages. More state means more potential for bugs and more complexity. 
+3. Consider Lifting State Up: If multiple components need to react to the same data changes, consider lifting the state up to their common ancestor instead of duplicating the logic in each component.
+
+**Conclusion**
+
+Derived state enables React components to react to changes in their props or state by computing new values that are derived from them. When used judiciously, it can make your components more flexible and responsive to changes in their inputs. However, it's important to use this pattern wisely to avoid unnecessary complexity in your component's logic.
+
+<br/>
+
+**2. Why to Avoid Prop Mirroring in React?**
+
+**Answer:** Prop mirroring refers to the anti-pattern of initializing a component's state by directly copying props passed to it. This approach can create several issues:
+
+**1. **Unnecessary Duplication****
+
+- **Explanation**: When you mirror props into state, you create two sources of truth for the same piece of data within your component, leading to unnecessary duplication.
+- **Impact**: This duplication makes it harder to track down bugs or reason about your application's state, as changes to the prop do not automatically reflect in the mirrored state, unless explicitly updated.
+
+**2. **Complexity and Maintenance Issues****
+
+- **Explanation**: Keeping props and state synchronized adds complexity to your component. You need to implement additional logic to update the state every time the props change, typically using lifecycle methods in class components or effects in functional components.
+- **Impact**: Increased complexity can lead to maintenance issues, making your code harder to read, understand, and update.
+
+**3. **Potential for Bugs****
+
+- **Explanation**: If the prop updates but the component does not handle this update correctly, the component's state can become out of sync with the prop.
+- **Impact**: This can lead to bugs, especially in larger applications where it might be difficult to trace the source of state changes, leading to unpredictable behavior.
+
+**4. **Performance Concerns****
+
+- **Explanation**: Unnecessary state updates to mirror prop changes can lead to additional re-renders, which may impact performance, especially in complex applications or components.
+- **Impact**: Keeping state and props synchronized requires more processing, which can degrade the performance of your application.
+
+**Alternatives to Prop Mirroring**
+
+- **Derived State**: Use derived state patterns wisely. Only derive state from props when necessary, and consider using memoization to avoid unnecessary calculations or re-renders.
+- **Lifting State Up**: If multiple components need to share and react to the same data, consider lifting the state up to their common ancestor instead of mirroring props into state in each component.
+- **Fully Controlled Components**: Make the component fully controlled by passing props down from a parent component and handling state changes at the parent level, using callbacks to communicate changes back up.
+- **Uncontrolled Components with Key Prop**: In cases where you need to reset a component's internal state when its props change, you can use the key prop to force a re-render of the component with the new props.
+
+**Conclusion**
+
+Avoiding prop mirroring in React is essential for writing clean, maintainable, and efficient code. By understanding the drawbacks of prop mirroring and employing alternative patterns, you can create more predictable and performant React applications.
 
 <br/>
 
